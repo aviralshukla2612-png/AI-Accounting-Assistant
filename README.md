@@ -47,4 +47,4 @@ npm run dev
 
 ## Author
 
-Yamini
+AVIRAL SHUKLA
